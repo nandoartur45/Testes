@@ -1,0 +1,17 @@
+[33mcommit b6fefdd45c3af3d503473f1dd2291a463c024ee5[m[33m ([m[1;36mHEAD -> [m[1;32msecondbranch[m[33m, [m[1;31mbatata/secondbranch[m[33m)[m
+Author: Artur André <arturpossible@gmail.com.com.br>
+Date:   Thu Aug 2 11:11:46 2018 -0300
+
+    Testando Novamente
+
+[33mcommit 76c44f0a9381a8f2e7aaf33e7b557a6cd54bf6d9[m[33m ([m[1;32mfirstbranch[m[33m)[m
+Author: Artur André <arturpossible@gmail.com.com.br>
+Date:   Wed Aug 1 18:01:24 2018 -0300
+
+    first branch commit
+
+[33mcommit cb167b5cb7bb4ee8503c45bca792a08555dd6073[m[33m ([m[1;31mbatata/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Artur André <arturpossible@gmail.com.com.br>
+Date:   Wed Aug 1 17:48:36 2018 -0300
+
+    First commit
