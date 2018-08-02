@@ -8,3 +8,8 @@ dafgdhbjpd
 {
     return number * number;
 }
+
+else (still dunno whatimmadoing);
+{
+    return whatever;
+}
